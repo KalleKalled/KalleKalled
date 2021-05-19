@@ -1,7 +1,7 @@
 # KalleKalled
 <p>
  <a href="https://discord.gg/2bmBrPGPgA" target"blank_"><img src="https://img.shields.io/badge/Discord%20-6306c7.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://twitter.com/KalleKalled_" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/2xykzwf9i6b206kd6offsqwxd?si=106d67217b254bad" target"blank_"><img src="https://img.shields.io/badge/Spotifyr%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/kallekalled/"><img src="https://img.shields.io/badge/Instagram%20-6306c7.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <p>
 
